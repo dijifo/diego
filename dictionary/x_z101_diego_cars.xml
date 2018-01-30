@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="cars" max_length="40" name="x_z101_diego_cars" type="collection"/>
+</database>
